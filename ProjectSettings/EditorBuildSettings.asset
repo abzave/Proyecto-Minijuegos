@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TittleScreen.unity
+    guid: f5d0cd49c254c7b478c8261fbdbdddac
+  - enabled: 1
+    path: Assets/Scenes/Board.unity
+    guid: 66eb57c2f2fc232448cf9f8ec91c4500
+  - enabled: 1
+    path: Assets/Scenes/PlayerSelect.unity
+    guid: cc89e064b02845841a09d51b3f4e80cf
+  - enabled: 1
+    path: Assets/Scenes/TicTacToe.unity
+    guid: b022af766b759c349a342f3811dc7b54
+  - enabled: 1
+    path: Assets/Scenes/LetterSoup.unity
+    guid: 4fa87ebebbc842f44a812d28bf81052b
+  - enabled: 1
+    path: Assets/Scenes/MemoryPath.unity
+    guid: 2fbec008b8ceba84a8358800cfcad02d
+  - enabled: 1
+    path: Assets/Scenes/Memory.unity
+    guid: 021f5fb60974657498f7b4e8723dd031
+  - enabled: 1
+    path: Assets/Scenes/CatchTheCat.unity
+    guid: c5880338f27b23541b626fcd1d60ac74
+  - enabled: 1
+    path: Assets/Scenes/Bombermario.unity
+    guid: f2f82911831475e4daa695b008799a93
+  - enabled: 1
+    path: Assets/Scenes/GuessWho.unity
+    guid: 433963a8d674aae4b9f84eb34511cc73
+  m_configObjects: {}
